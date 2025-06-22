@@ -1,0 +1,5 @@
+# Variables d'environnements
+.env.dev
+.env.prod
+_doc/
+node_modules/
